@@ -2,17 +2,14 @@
     <div>
         <h1> Google-Project-Management-Certificate </h1>
         <p>
-        This course talks about Project Management Fundamentals which covers the topics such as Project Management, Roles of Project manager, Projects Life cycle, Project Planning, Methodologies, Risk Management, Affective communication with stakeholders.
-        </p>
-
-        <p> 
+        This course talks about Project Management Fundamentals which covers the topics such as Project Management, Roles of Project manager, Projects Life cycle, Project Planning, Methodologies, Risk Management, Affective communication with stakeholders.<br> <br>
         Project management is the application of knowledge, skills, tools and techniques to meet the project requirement and achieve the desire outcome. 
         </p>
     </div>
 
-    <div>
+<div>
 
-        <h3> Project Manager: </h3>
+<h3> Project Manager: </h3>
         <p>
         First of all it talks about the Project Manager who is responsible for guiding those people who are working in the project and ensuring they have the support they need to complete the project. He isn’t always a direct manager of each member of the project team. </p>
         <p>
@@ -20,7 +17,7 @@
         </p>
     </div>
 
-    <div>
+<div>
         <h3> Project Life Cycle:</h3>
         <ul>
             <li> Initiate the project: Define project goal, determine resources, people and other details, get project approval. </li>
@@ -31,7 +28,7 @@
     </div>
 
 
-    <div>
+<div>
         <h3> Project Planning for Beginners: </h3>
         <p> A project plan is a useful tool that can be used for any project, big or small. It helps us to document the scope, tasks, milestones, and overall activities of the project. A project plan includes five basic elements: tasks, milestones, people, documentation, and time.
         </p>
@@ -44,7 +41,7 @@
         </ul>
     </div>
 
-    <div> 
+<div> 
         <h3> Project Management Methodology: </h3>
         <p> A project management methodology is a framework or set of principles and practices used to plan, execute, and control projects effectively. These methodologies provide guidelines for project teams to follow throughout the project lifecycle, from initiation to completion. Here are some common project management methodologies: </p>
         <ul>
@@ -55,7 +52,7 @@
         </ul>
     </div>
 
-    <div>
+<div>
         <h3> Risk Management: </h3>
         <ul>
             <li> Find the things that might go wrong with the project</li>
@@ -66,7 +63,7 @@
         </ul>
     </div>
 
-    <div>
+<div>
         <h3> Communicating and working with stakeholders: </h3>
         <ul> 
             <li> Understand who is interested in or affected by the project.</li>
